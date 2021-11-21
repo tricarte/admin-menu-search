@@ -1,0 +1,16 @@
+{
+    "name"       : "tricarte/admin-menu-search",
+    "description": "Clone of admin-menu-search plugin. Fixes the hardcoded wp-content directory URL.",
+    "homepage"   : "https://github.com/tricarte/admin-menu-search",
+    "type"       : "wordpress-plugin",
+    "license"    : "MIT",
+    "authors"    : [
+        {
+            "name"    : "tricarte"
+        }
+    ],
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
+
